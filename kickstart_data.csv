@@ -1,18 +1,18 @@
-﻿Category,(All),,,,
-Years,(All),,,,
-,,,,,
-Count of Category,Column Labels,,,,
-Row Labels,canceled,failed,live,successful,Grand Total
-Jan,34,149,2,152,337
-Feb,27,105,18,178,328
-Mar,28,108,30,160,326
-Apr,27,103,,173,303
-May,26,126,,208,360
-Jun,27,148,,191,366
-Jul,44,148,,168,360
-Aug,32,134,,145,311
-Sep,24,127,,139,290
-Oct,20,150,,162,332
-Nov,37,113,,150,300
-Dec,22,119,,104,245
-Grand Total,348,1530,50,1930,3858
+﻿Category,(All),,,
+Years,(All),,,
+,,,,
+Count of Category,Column Labels,,,
+Row Labels,canceled,failed,successful,Grand Total
+Jan,34,149,152,335
+Feb,27,105,178,310
+Mar,28,108,160,296
+Apr,27,103,173,303
+May,26,126,208,360
+Jun,27,148,191,366
+Jul,44,148,168,360
+Aug,32,134,145,311
+Sep,24,127,139,290
+Oct,20,150,162,332
+Nov,37,113,150,300
+Dec,22,119,104,245
+Grand Total,348,1530,1930,3808
