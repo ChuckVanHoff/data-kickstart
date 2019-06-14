@@ -1,46 +1,18 @@
-﻿country,(All),,,,
+﻿Category,(All),,,,
+Years,(All),,,,
 ,,,,,
-Count of sub-category,Column Labels,,,,
+Count of Category,Column Labels,,,,
 Row Labels,canceled,failed,live,successful,Grand Total
-animation,,100,,,100
-art books,20,,,,20
-audio,24,,,,24
-children's books,,40,,,40
-classical music,,,,40,40
-documentary,,,,170,170
-drama,,80,,,80
-electronic music,,,,33,33
-faith,,40,20,,60
-fiction,,40,,,40
-food trucks,20,120,,,140
-gadgets,,20,,,20
-hardware,,,,67,67
-indie rock,,20,,134,154
-jazz,,60,,,60
-makerspaces,,11,,9,20
-metal,,,,18,18
-mobile games,,40,,,40
-musical,20,60,,60,140
-nature,,20,,,20
-nonfiction,,,,56,56
-people,,20,,,20
-photobooks,,57,,83,140
-places,,20,,,20
-plays,,353,19,669,1041
-pop,,,,38,38
-radio & podcasts,,,,17,17
-restaurants,,20,,,20
-rock,,,,240,240
-science fiction,40,,,,40
-shorts,,,,56,56
-small batch,,,6,27,33
-space exploration,18,2,,29,49
-spaces,17,80,5,77,179
-tabletop games,,,,33,33
-television,,,,59,59
-translations,10,47,,,57
-video games,,100,,,100
-wearables,59,120,,15,194
-web,100,60,,,160
-world music,20,,,,20
+Jan,34,149,2,152,337
+Feb,27,105,18,178,328
+Mar,28,108,30,160,326
+Apr,27,103,,173,303
+May,26,126,,208,360
+Jun,27,148,,191,366
+Jul,44,148,,168,360
+Aug,32,134,,145,311
+Sep,24,127,,139,290
+Oct,20,150,,162,332
+Nov,37,113,,150,300
+Dec,22,119,,104,245
 Grand Total,348,1530,50,1930,3858
