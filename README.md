@@ -1,8 +1,8 @@
-# Kickstart a New Adventure
-Where data and life join
+# Kickstart a New Journey
+Get the most out of a Kickstart
 
 ## My First Data Project -- Excel
-This first data project uses Excel to clean, filter, organize, and otherwise prepare a dataset of about 4000 Kickstarter campaign records for analysis.
+This first data project uses Excel to clean, filter, organize, and otherwise prepare a dataset of about 4000 Kickstarter campaign records for analysis. It's also the first "data" project I've done.
 
 ### Background
 Over two billion dollars have been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
